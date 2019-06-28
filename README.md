@@ -1,3 +1,9 @@
 # Batch-Scripts
 
-%HOMEPATH% -- environment variable
+-- environment variables
+
+%HOMEPATH% 
+
+%HOMEDRIVE%\
+
+%SystemDrive%\
