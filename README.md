@@ -6,4 +6,24 @@
 
 %HOMEDRIVE%\
 
+%PUBLIC%
+
 %SystemDrive%\
+
+%SYSTEMOS%
+
+%SystemRoot%
+
+%TEMP%
+
+%TMP%
+
+%USERDNSDOMAIN%
+
+%USERDOMAIN%
+
+%USERNAME%
+
+%USERPROFILE%
+
+%windir%
